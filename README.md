@@ -1,4 +1,4 @@
-##Hi, I'm Ayan Khan
+**Hi, I'm Ayan Khan**
 Data Enthusiast with Some Interest to learn about Web Dev.
 
 
