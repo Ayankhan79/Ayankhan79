@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I'm Ayan Khan
+Data Enthusiast with Some Interest to learn about Web Dev.
+
+
 
 <!--
 **Ayankhan79/Ayankhan79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
