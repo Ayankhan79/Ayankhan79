@@ -1,6 +1,8 @@
-**Hi, I'm Ayan Khan**
-Data Enthusiast with Some Interest to learn about Web Dev.
+**Hi, I'm Ayan Khan** 
 
+*Data Enthusiast with Some Interest to learn about Web Dev.*
+
+***Data Engineer | Data Science | Data Analyst | Machine Learning***
 
 
 <!--
