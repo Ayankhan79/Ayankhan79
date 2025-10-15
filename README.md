@@ -1,21 +1,24 @@
-**Hi, I'm Ayan Khan** 
+<h1 align="center">✨ Hi, I'm <span style="color:#00BFFF;">Ayan Khan</span> ✨</h1>
 
-*Data Enthusiast with Some Interest to learn about Web Dev.*
+---
 
-***Data Engineer | Data Science | Data Analyst | Machine Learning***
+### 🧠 About Me
 
+<p align="center">
+<font size="4">
+🎓 <b>Final Year Student</b> at <b>MVJ College of Engineering, Bangalore</b> <br><br>
+💼 <b>Data Engineer</b> | <b>Data Scientist</b> | <b>Data Analyst</b> | <b>Machine Learning Enthusiast</b> <br><br>
+🌐 <i>Data Enthusiast with a pinch of interest in Web Development</i> 💻
+</font>
+</p>
 
-<!--
-**Ayankhan79/Ayankhan79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Analyze data and extract meaningful insights  
+- 🤖 Build and train Machine Learning models  
+- 🧩 Design scalable data pipelines  
+- 🌍 Explore and apply AI in real-world use cases  
+
+---
