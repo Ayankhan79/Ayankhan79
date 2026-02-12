@@ -33,7 +33,7 @@ Data Scientist • Data Analyst • Machine Learning Enthusiast • Data Enginee
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ayan-amanullah-khan-083347247" target="_blank">
+  <a href="https://www.linkedin.com/in/ayan-amanullah-khan-083347247" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/>
   </a>
   <a href="mailto:ayyyankhaann3971@gmail.com">
